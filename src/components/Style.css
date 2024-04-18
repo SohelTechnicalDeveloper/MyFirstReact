@@ -1,0 +1,42 @@
+.header-side{
+
+     background-color: aquamarine;
+     height: 80px;
+     font-size: 22px;
+     padding: 10px;
+        
+}
+.header-side ul{
+     
+     display: flex;
+     list-style: none;
+     gap: 80px;
+     font-size: 25px;
+     margin-left: 45%;
+     font-family: Arial, Helvetica, sans-serif;
+     
+}
+ul li a{
+     border-bottom: 0;
+}
+.right-side{
+
+       background-color: darkblue;
+       height: 500px;
+}
+.center-side{
+
+     background-color: rgba(31, 157, 60, 0.593);
+     height: 500px;
+
+}
+.left-side{
+
+     background-color: rgb(239, 224, 20);
+     height: 500px;
+}
+.footer-side{
+     
+     background-color: rgb(121, 10, 162);
+     height: 150px;
+}
