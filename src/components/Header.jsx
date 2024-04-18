@@ -16,6 +16,7 @@ function Header() {
          </ul>
 
       </div>
+      <h1>Sohel khan hai mera name </h1>
       
     </div>
   )
